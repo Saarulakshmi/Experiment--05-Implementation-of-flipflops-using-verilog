@@ -107,28 +107,76 @@ Q(t+1)=T′Q(t)+TQ(t)′
 
 
 ### PROGRAM 
+
+T flip flop
+
+![exp5prg1](https://github.com/Saarulakshmi/Experiment--05-Implementation-of-flipflops-using-verilog/assets/155513241/a66ca96d-9b91-4018-8793-6f92b7d9178c)
+
+D flip flop
+
+![exp5prg2](https://github.com/Saarulakshmi/Experiment--05-Implementation-of-flipflops-using-verilog/assets/155513241/6e6da4ef-619f-4e91-a75d-6f1398075659)
+
+
+SR flip flop
+
+![exp 5 prg3](https://github.com/Saarulakshmi/Experiment--05-Implementation-of-flipflops-using-verilog/assets/155513241/cbc9990f-ec56-42a9-b454-6a646ecb9955)
+
+
+JK flip flop
+
+![exp 5 prg4](https://github.com/Saarulakshmi/Experiment--05-Implementation-of-flipflops-using-verilog/assets/155513241/7dfe2c0f-bf96-4998-a3eb-26b3f8abb5df)
+
+
+##RTL
+
+![rtll1](https://github.com/Saarulakshmi/Experiment--05-Implementation-of-flipflops-using-verilog/assets/155513241/30b7c084-cc9a-43c8-8817-388acfcdfc6e)
+
+
+![rtll2](https://github.com/Saarulakshmi/Experiment--05-Implementation-of-flipflops-using-verilog/assets/155513241/e767e02c-3fdb-47a6-b597-e42f3a5d8cec)
+
+
+![rtll3](https://github.com/Saarulakshmi/Experiment--05-Implementation-of-flipflops-using-verilog/assets/155513241/73b7f3bf-828d-4556-9a44-5428a9d18021)
+
+
+![rtll4](https://github.com/Saarulakshmi/Experiment--05-Implementation-of-flipflops-using-verilog/assets/155513241/37a5bda8-5761-46ae-9038-c310cba3a6b4)
+
+
+##Output
+
+![op1](https://github.com/Saarulakshmi/Experiment--05-Implementation-of-flipflops-using-verilog/assets/155513241/329f32be-3db8-4e67-8fb8-9d1b67981339)
+
+
+![op2](https://github.com/Saarulakshmi/Experiment--05-Implementation-of-flipflops-using-verilog/assets/155513241/d4bc6e6f-d844-41e5-8869-98de7ea8a2b0)
+
+
+![op3](https://github.com/Saarulakshmi/Experiment--05-Implementation-of-flipflops-using-verilog/assets/155513241/e8278128-026c-4560-9c43-a42c454690a2)
+
+
+![op44](https://github.com/Saarulakshmi/Experiment--05-Implementation-of-flipflops-using-verilog/assets/155513241/ea7f4337-0684-4dd2-ba66-d86649a7f753)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /*
 Program for flipflops  and verify its truth table in quartus using Verilog programming.
-Developed by: 
+Developed by: saaru lakshmi
 RegisterNumber:  
 */
 
 
 
-
-
-
-### RTL LOGIC FOR FLIPFLOPS 
-
-
-
-
-
-
-
-
-
-### TIMING DIGRAMS FOR FLIP FLOPS 
 
 
 
